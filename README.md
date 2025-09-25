@@ -1,1 +1,2 @@
-# Lab6-synchronization_tools
+# Lab6
+
